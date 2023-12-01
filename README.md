@@ -6,6 +6,6 @@ Skills:  REACT / JS / HTML / CSS/ TS / Tailwind / sql / Laravel / WordPress
 
 - 🌱 I’m currently learning JavaScript 
 - 💬 Ask me about Web design and development 
-[![M H Hasib's GitHub Streak](https://streak-stats.demolab.com?user=mahmudulhsn&theme=radical)](https://git.io/streak-stats)
+[![M H Hasib's GitHub Streak](https://streak-stats.demolab.com?user=istiakmahmud0&theme=radical)](https://git.io/streak-stats)
 
 
