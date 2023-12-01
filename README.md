@@ -7,5 +7,5 @@ Skills:  REACT / JS / HTML / CSS/ TS / Tailwind / sql / Laravel / WordPress
 - 🌱 I’m currently learning JavaScript 
 - 💬 Ask me about Web design and development 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=istiakmahmud0&show_icons=true&count_private=true)  
+
 
