@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I am Istiak Mahmud 
+#### Software Engineer
+I am a full stack full-stack developer . Have experience of working to take Web framework Laravel , WordPress CMS and front end library React and it,s framework Next.js. Currently working as a softwar engineer at AriSaf Tech Ltd.
 
-<!--
-**istiakmahmud0/istiakmahmud0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills:  REACT / JS / HTML / CSS/ TS / Tailwind / sql / Laravel / WordPress 
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning JavaScript 
+- 💬 Ask me about Web design and development 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/istiakmahmud0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/istiak-mahmud-saikot-1a0291137//)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=istiakmahmud0)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=istiakmahmud0&show_icons=true&count_private=true)  
+
