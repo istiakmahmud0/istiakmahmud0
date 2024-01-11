@@ -28,6 +28,6 @@ Currently working as **Software Engineer** in [**Arisaf Tech Ltd**](https://aris
 
 
 
-[![M H Hasib's GitHub Streak](https://streak-stats.demolab.com?user=istiakmahmud0&theme=radical)](https://git.io/streak-stats)
+[![Istiaks's GitHub Streak](https://streak-stats.demolab.com?user=istiakmahmud0&theme=radical)](https://git.io/streak-stats)
 
 
